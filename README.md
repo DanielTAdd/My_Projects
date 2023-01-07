@@ -10,12 +10,15 @@ The recent rise in the demand for energy has necessiated the exploration for ren
 Unlike conventional drilling, geothermal drilling is more challenging as geothermal resources are usually characterized with hard rock formations. Drilling is one of the most expensive aspects of a geothermal project contributing to about 40% of the overall project cost. It is thus important to optimize the entire drilling process to reduce cost. Determination of rock hardness and further prediction of rate of penetration can help drillers adjust drilling paramters and use the right drilling accessories to optmize the entire drilling process. Conventional methods in determining rock hardness are cumbersome and usually very expensive. Data-driven models have proven to be a better alternative in carrying out the same task as they are less expensive. 
 
 
-###Objectives
+### Objectives
 
 1. The first objective of this project is to develop a classification model to classify rocks based on hardness using mohrs scale of hardness value as the target variable drilling parameters as predictors. 
 2. The second objective is to build a machine learning regression model that predicts the rate of penetration using drilling paramters and well logs as predictor variables. 
 
 The significance of this objective lies in the reduction in over-dependency on expensive logging tools, thus cutting cost while while delivering near similar potential value by leveraging on historical data. 
+
+![image](https://user-images.githubusercontent.com/96665362/211139690-68f8cab6-dde5-42bc-a588-5dc0694131b2.png)
+
 
 ##Important Notes
 1.The Data was obtained from the Utah- Forge field, Well 58-32.
@@ -34,6 +37,6 @@ The significance of this objective lies in the reduction in over-dependency on e
 
 8. The workflow and the results from the model are described in the .R adn ipynb files as well as repirts attached.
 
-![image](https://user-images.githubusercontent.com/96665362/211139690-68f8cab6-dde5-42bc-a588-5dc0694131b2.png)
+
 
 
