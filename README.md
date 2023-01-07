@@ -1,4 +1,6 @@
-# My_Projects
+# Machine Learning Applications in Predicting Rate of Penetration (ROP) Using Drilling Parameters and Well Logs
+
+### Project Overview
 #In this project, a data-driven model was developed in a python IDE for predicting rate of penetration of a drillstring in downstream Petroleum Engineering drilling operations.
 #The Data was obtained from the Utah- Forge field, Well 58-32.
 #The dataset include drilling data such as Rate of Penetration (ROP) as the target variable and other drilling variables such as Depth, Rotation per minute (RPM), 
