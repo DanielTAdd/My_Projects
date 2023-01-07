@@ -19,12 +19,20 @@ The significance of this objective lies in the reduction in over-dependency on e
 
 ##Important Notes
 1.The Data was obtained from the Utah- Forge field, Well 58-32.
+
 2. The dataset include drilling data such as Rate of Penetration (ROP), Depth, Rotation per minute (RPM),Stand Pipe Pressure (SPP) and Drilling Torque amongsts others as indicated in the Jupyter notebook attached. 
+
 3. The CRISP-DM methodology was followed in the project  
+
 4. EDA and prediction development of the classification model was done in R
+
 5. A python IDE was used in writing the codes for ROP prediction. 
-6.
-7. The workflow and the results from the model are described in the jupyter notebook attached. 
+
+6.Major packages used in python include Numpy, Pandas, Matplotlib, Sklearn, lasio, seaborn and Math amongst others 
+
+7. Major packages used in R include tidyverse, CARET, CAR, MARS, HSAUR2, mlbench, ggplot, CRAN and naniar amongst others.
+
+8. The workflow and the results from the model are described in the .R adn ipynb files as well as repirts attached.
 
 ![image](https://user-images.githubusercontent.com/96665362/211139690-68f8cab6-dde5-42bc-a588-5dc0694131b2.png)
 
