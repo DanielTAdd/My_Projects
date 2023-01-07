@@ -5,3 +5,6 @@
 #Stand Pipe Pressure (SPP) and Drilling Torque amongsts others as indicated in the Jupyter notebook attached. 
 #The CRISP-DM methodology was followed in the project and Sci-kit learn was mainly deployed amongst other libraries. 
 #The workflow and the results from the model are described in the jupyter notebook attached. 
+
+
+![image](https://user-images.githubusercontent.com/96665362/211138887-0ad95476-fceb-4f4e-8ac1-f1cbccce50b4.png)
