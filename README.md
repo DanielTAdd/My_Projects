@@ -27,7 +27,7 @@ The significance of this objective lies in the reduction in over-dependency on e
 
 3. The CRISP-DM methodology was followed in the project  
 
-4. EDA and prediction development of the classification model was done in R
+4. EDA and development of the classification model was done in R
 
 5. A python IDE was used in writing the codes for ROP prediction. 
 
